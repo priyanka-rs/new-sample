@@ -1,0 +1,52 @@
+.box{
+    
+    border-style:solid;
+    border-width:thin;
+    width:60%;
+    padding:10px 5px 10px 10px ;
+    margin: 100px auto;
+  }
+
+h1,p  {
+  text-align:center;
+}
+.container{
+    display:block;
+    width:90%;
+    margin:20px;
+    padding:20px;
+    border-style:solid;
+    border-width:thin;
+  
+}
+.container p{
+   display:inline;
+   box-sizing:border-box;
+   border-style:solid;
+   border-width:thin;
+   height:10px;
+   padding:50px;
+   position:relative;
+   top:150px;
+   left:70px;
+   
+   
+}
+.container input{
+  padding : 12px 20px;
+  margin : 8px 0;
+  box-sizing : border-box;
+  
+ }
+ .container input,label{
+  display:inline-block;
+  width: 20%;
+  position:relative;
+  left:50%;
+}
+
+  
+ 
+
+ 
+
